@@ -1,33 +1,22 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Radio Astronomy</title>
+  <title>Deconvolution</title>
 </head>
 
 <body>
   <h1>
-  Radio Astronomy
+  Papers
   </h1>
 
 
-  <h2><a href="Web/articles.html">Articles</a></h2>
-  <h2><a href="Web/notes.html">Notes</a></h2>
+  <h2><a href="http://articles.adsabs.harvard.edu/pdf/1974A%26AS...15..417H">1974 Hogbom 
+Astronomy & Astrophysics-Aperture Synthesis with a Non-Regular Distribution of Interferometer Baselines</a></h2>
+  <h2><a href="http://articles.adsabs.harvard.edu/pdf/1978A%26A....70..335S">1978 Segalovitz Astronomy and Astrophysics-A `CLEAN'-type Deconvolution Algorithm</a></h2>
 
-  <div>
-    <p>
-      <br />This is Major Tom to Ground Control
-      <br />I'm stepping through the door
-      <br />And I'm floating in a most peculiar way
-      <br />And the stars look very different today
-      <br /><strong>---David Bowie</strong>
-      <em>&nbspSpace Oddity</em>
-    </p>
-    <br />
-    <i>When it is dark enough, you will see the stars.</i>
-  </div>
+
   
 </body>
 </html>
+
