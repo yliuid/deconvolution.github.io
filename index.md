@@ -111,8 +111,8 @@ deconvolution">A BOUND OPTIMIZATION APPROACH TOWAVELET-BASED IMAGE DECONVOLUTION
   <h2><a href="https://academic.oup.com/mnras/article/426/2/1223/974193">Sparsity Averaging Reweighted Analysis (SARA): a novel algorithm for radio-interferometric imaging - 2012 Monthly Notices of the Royal Astronomical Society R. E. Carrillo</a></h2>
   <h2><a href="https://www.researchgate.net/publication/280756202_Ultrasound_medical_image_deconvolution_using_CLEAN_algorithm">Ultrasound medical image deconvolution using CLEAN algorithm - 2012 Acoustics Liviu-Teodor CHIRA</a></h2>
   <h2><a href="https://ieeexplore.ieee.org/document/6618986">A machine learning approach for non-blind image deconvolution - 2013 IEEE Christian J. Schuler</a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://www.aanda.org/articles/aa/abs/2013/03/aa20771-12/aa20771-12.html">Improved CLEAN reconstructions for rotation measure synthesis with maximum likelihood estimation - 2013 A&A M. R. Bell</a></h2>
+  <h2><a href="https://www.sciencedirect.com/science/article/pii/S0888327014000995?via%3Dihub">Comparison of deconvolution methods for the visualization of acoustic sources based on cross-spectral imaging function beamforming - 2014 Mechanical Systems and Signal Processing Chu, Zhigang</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
