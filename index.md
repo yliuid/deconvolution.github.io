@@ -130,7 +130,7 @@ deconvolution - 2019 Monthly Notices of the Royal Astronomical Society Rita Amma
   <h2><a href="https://arxiv.org/abs/1911.07167">LIDIA: Lightweight Learned Image Denoising with Instance Adaptation 2019 Gregory Vaksman</a></h2>
   <h2><a href="https://arxiv.org/pdf/2002.07921.pdf">MEM_GE: A New Maximum Entropy Method for Image Reconstruction from Solar X-Ray Visibilities - 2020 The Astrophysical Journal Massa, Paolo</a></h2>
   <h2><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Neural_Blind_Deconvolution_Using_Deep_Priors_CVPR_2020_paper.pdf">Neural Blind Deconvolution Using Deep Priors - 2020 CVPR Dongwei Ren</a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://iopscience.iop.org/article/10.1088/1538-3873/ab7345/meta">Parameterized CLEAN Deconvolution in Radio Synthesis Imaging - 2020 The Astronomical Society of the Pacific L. Zhang</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
