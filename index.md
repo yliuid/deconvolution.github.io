@@ -121,7 +121,8 @@ deconvolution">A BOUND OPTIMIZATION APPROACH TOWAVELET-BASED IMAGE DECONVOLUTION
   <h2><a href="https://ieeexplore.ieee.org/document/7952627">Non-blind image deconvolution using deep dual-pathway rectifier neural network - 2017 IEEE Keting Zhang</a></h2>
   <h2><a href="https://www.sciencedirect.com/science/article/pii/S0022460X1830703X?via%3Dihub">Deconvolution using CLEAN-SC for acoustic source identification with spherical microphone arrays  - 2019 Journal of Sound and Vibration Chu, Zhigang</a></h2>
   <h2><a href="https://www.proquest.com/docview/2150536201?pq-origsite=gscholar&fromopenview=true">Evaluation of Reconstructed Radio Images Techniques of CLEAN De-convolution Methods - 2018 International Journal of Image, Graphics and Signal Processing Mohamed, M A</a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://arxiv.org/abs/1905.08468">A parallel & automatically tuned algorithm for multispectral image
+deconvolution - 2019 Monthly Notices of the Royal Astronomical Society Rita Ammanouil</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
