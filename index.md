@@ -96,9 +96,10 @@ Robust sparse image reconstruction of radio interferometric observations with PU
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1992ASPC...25..173K">Applications of Clean to Deconvolution of Direct Images - 1992 Astronomical Data Analysis Software and Systems Keel, William C.</a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1994A%26AS..108..585S">Multi-frequency synthesis techniques in radio interferometric imaging. - 1994 Astronomy and Astrophysics Suppl Sault, R. J.</a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1999ASPC..180..419S">Multi-Frequency Synthesis - 1999 Synthesis Imaging in Radio Astronomy II Sault, R. J</a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://ieeexplore.ieee.org/document/1530172Nonlinear dynamic range compression
+deconvolution">A BOUND OPTIMIZATION APPROACH TOWAVELET-BASED IMAGE DECONVOLUTION - 2005 IEEE M.A.T. Figueiredo</a></h2>
+  <h2><a href="https://www.osapublishing.org/ol/fulltext.cfm?uri=ol-31-13-1969&id=90234">Nonlinear dynamic range compression deconvolution - 2006 Optics Letters Bahareh Haji-saeed</a></h2>
+  <h2><a href="https://ieeexplore.ieee.org/document/4653919">CLEAN deconvolution for sidelobe suppression in random noise radar - 2008 IEEE R. D. Fry</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
