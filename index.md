@@ -119,8 +119,8 @@ deconvolution">A BOUND OPTIMIZATION APPROACH TOWAVELET-BASED IMAGE DECONVOLUTION
   <h2><a href="https://www.researchgate.net/publication/314373350_Multi-GPU_maximum_entropy_image_synthesis_for_radio_astronomy"> Multi-GPU maximum entropy image synthesis for radio - 2017 Astronomy and Computing Miguel Cárcamo</a></h2>
   <h2><a href="https://www.researchgate.net/publication/322651703_Multi-scale_clean_deconvolution_for_solar_radio_imaging_with_Mingantu_Ultrawide_Spectral_Radioheliograph_MUSER">Multi-scale clean deconvolution for solar radio imaging with Mingantu Ultrawide Spectral Radioheliograph - 2017 International Symposium on Intelligent Signal Processing and Communication Systems Dong Zhao</a></h2>
   <h2><a href="https://ieeexplore.ieee.org/document/7952627">Non-blind image deconvolution using deep dual-pathway rectifier neural network - 2017 IEEE Keting Zhang</a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://www.sciencedirect.com/science/article/pii/S0022460X1830703X?via%3Dihub">Deconvolution using CLEAN-SC for acoustic source identification with spherical microphone arrays  - 2019 Journal of Sound and Vibration Chu, Zhigang</a></h2>
+  <h2><a href="https://www.proquest.com/docview/2150536201?pq-origsite=gscholar&fromopenview=true">Evaluation of Reconstructed Radio Images Techniques of CLEAN De-convolution Methods - 2018 International Journal of Image, Graphics and Signal Processing Mohamed, M A</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
