@@ -95,7 +95,7 @@ Robust sparse image reconstruction of radio interferometric observations with PU
   <h2><a href="https://ieeexplore.ieee.org/document/6491450">Direction Finding With MUSIC and CLEAN - 2013 IEEE Hislop, Greg</a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1992ASPC...25..173K">Applications of Clean to Deconvolution of Direct Images - 1992 Astronomical Data Analysis Software and Systems Keel, William C.</a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1994A%26AS..108..585S">Multi-frequency synthesis techniques in radio interferometric imaging. - 1994 Astronomy and Astrophysics Suppl Sault, R. J.</a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="http://articles.adsabs.harvard.edu/pdf/1999ASPC..180..419S">Multi-Frequency Synthesis - 1999 Synthesis Imaging in Radio Astronomy II Sault, R. J</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
