@@ -113,9 +113,9 @@ deconvolution">A BOUND OPTIMIZATION APPROACH TOWAVELET-BASED IMAGE DECONVOLUTION
   <h2><a href="https://ieeexplore.ieee.org/document/6618986">A machine learning approach for non-blind image deconvolution - 2013 IEEE Christian J. Schuler</a></h2>
   <h2><a href="https://www.aanda.org/articles/aa/abs/2013/03/aa20771-12/aa20771-12.html">Improved CLEAN reconstructions for rotation measure synthesis with maximum likelihood estimation - 2013 A&A M. R. Bell</a></h2>
   <h2><a href="https://www.sciencedirect.com/science/article/pii/S0888327014000995?via%3Dihub">Comparison of deconvolution methods for the visualization of acoustic sources based on cross-spectral imaging function beamforming - 2014 Mechanical Systems and Signal Processing Chu, Zhigang</a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://dl.acm.org/doi/10.5555/2968826.2969026">Deep convolutional neural network for image deconvolution - 2014 NIPS Li Xu</a></h2>
+  <h2><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9252/1/Faster-with-CLEAN--an-exploration-of-the-effects-of/10.1117/12.2067573.short?SSO=1">Faster with CLEAN: an exploration of the effects of applying a nonlinear deconvolution method to a novel radiation mapper - 2014 Society of Photo-Optical Instrumentation Engineers Matthew J. Southgate</a></h2>
+  <h2><a href="https://www.researchgate.net/publication/310456167_A_modified_CLEAN_algorithm_for_improving_aperture_synthesis_observations_of_radio_astronomy">A modified CLEAN algorithm for improving aperture synthesis observations of radio astronomy - 2016 IEEE Liqi Chen</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
