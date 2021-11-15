@@ -71,9 +71,9 @@ Robust sparse image reconstruction of radio interferometric observations with PU
   <h2><a href="https://arxiv.org/pdf/1010.3658.pdf">Compressed sensing for wide-field radio interferometric imaging 2011 Monthly Notices of the Royal Astronomical Society  McEwen, J. D. ; Wiaux, Y. </a></h2>
   <h2><a href="https://iopscience.iop.org/article/10.1086/657252/pdf">SparseRI: A Compressed Sensing Framework for Aperture Synthesis Imaging in Radio Astronomy - 2010 Publications of the Astronomical Society of the Pacific Wenger, S</a></h2>
   <h2><a href="https://arxiv.org/pdf/1309.1469.pdf">Probabilistic image reconstruction for radio interferometers  - 2014 Monthly Notices of the Royal Astronomical Society Sutter, P. M. </a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://arxiv.org/pdf/0802.0131.pdf">Compressed Sensing in Astronomy - 2008 IEEE Bobin, Jérôme</a></h2>
+  <h2><a href="https://link.springer.com/chapter/10.1007%2F978-94-009-9449-2_30"> The Method Clean - Use, Misuse and Variations (invited Paper) - 1979 Image Formation from Coherence Functions in Astronomy Schwarz, U. J. </a></h2>
+  <h2><a href="http://articles.adsabs.harvard.edu/pdf/1978A%26A....65..345S">Mathematical-statistical Description of the Iterative Beam Removing Technique (Method CLEAN) - 1978 A&A Schwarz, U. J. </a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
