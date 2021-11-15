@@ -101,9 +101,9 @@ deconvolution">A BOUND OPTIMIZATION APPROACH TOWAVELET-BASED IMAGE DECONVOLUTION
   <h2><a href="https://www.osapublishing.org/ol/fulltext.cfm?uri=ol-31-13-1969&id=90234">Nonlinear dynamic range compression deconvolution - 2006 Optics Letters Bahareh Haji-saeed</a></h2>
   <h2><a href="https://ieeexplore.ieee.org/document/4653919">CLEAN deconvolution for sidelobe suppression in random noise radar - 2008 IEEE R. D. Fry</a></h2>
   <h2><a href="https://ieeexplore.ieee.org/document/4597746">Complex Wavelet Based Image Deconvolution - 2008 IEEE Min Li</a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://ieeexplore.ieee.org/document/4711802">REDUCING BOUNDARY ARTIFACTS IN IMAGE DECONVOLUTION - 2008 IEEE Renting Liu</a></h2>
+  <h2><a href="https://ieeexplore.ieee.org/document/5254805">Deconvolution of VLBI Images Based on Compressive Sensing - 2009 IEEE Andriyan Bayu Suksmono</a></h2>
+  <h2><a href="https://papers.nips.cc/paper/2009/file/3dd48ab31d016ffcbf3314df2b3cb9ce-Paper.pdf">Fast Image Deconvolution using Hyper-Laplacian Priors - 2009 NIPS Dilip Krishnan</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
