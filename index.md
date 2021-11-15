@@ -116,9 +116,9 @@ deconvolution">A BOUND OPTIMIZATION APPROACH TOWAVELET-BASED IMAGE DECONVOLUTION
   <h2><a href="https://dl.acm.org/doi/10.5555/2968826.2969026">Deep convolutional neural network for image deconvolution - 2014 NIPS Li Xu</a></h2>
   <h2><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9252/1/Faster-with-CLEAN--an-exploration-of-the-effects-of/10.1117/12.2067573.short?SSO=1">Faster with CLEAN: an exploration of the effects of applying a nonlinear deconvolution method to a novel radiation mapper - 2014 Society of Photo-Optical Instrumentation Engineers Matthew J. Southgate</a></h2>
   <h2><a href="https://www.researchgate.net/publication/310456167_A_modified_CLEAN_algorithm_for_improving_aperture_synthesis_observations_of_radio_astronomy">A modified CLEAN algorithm for improving aperture synthesis observations of radio astronomy - 2016 IEEE Liqi Chen</a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://www.researchgate.net/publication/314373350_Multi-GPU_maximum_entropy_image_synthesis_for_radio_astronomy"> Multi-GPU maximum entropy image synthesis for radio - 2017 Astronomy and Computing Miguel Cárcamo</a></h2>
+  <h2><a href="https://www.researchgate.net/publication/322651703_Multi-scale_clean_deconvolution_for_solar_radio_imaging_with_Mingantu_Ultrawide_Spectral_Radioheliograph_MUSER">Multi-scale clean deconvolution for solar radio imaging with Mingantu Ultrawide Spectral Radioheliograph - 2017 International Symposium on Intelligent Signal Processing and Communication Systems Dong Zhao</a></h2>
+  <h2><a href="https://ieeexplore.ieee.org/document/7952627">Non-blind image deconvolution using deep dual-pathway rectifier neural network - 2017 IEEE Keting Zhang</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
