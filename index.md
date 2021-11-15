@@ -69,8 +69,8 @@ Robust sparse image reconstruction of radio interferometric observations with PU
   <h2><a href="https://arxiv.org/pdf/2001.03850.pdf"> Solar image deconvolution by generative adversarial network - 2020 Research in Astronomy and Astrophysics Xu, Long </a></h2>
   <h2><a href="https://arxiv.org/pdf/0812.4933.pdf">Compressed sensing imaging techniques for radio interferometry - 2009 Monthly Notices of the Royal Astronomical Society Wiaux, Y</a></h2>
   <h2><a href="https://arxiv.org/pdf/1010.3658.pdf">Compressed sensing for wide-field radio interferometric imaging 2011 Monthly Notices of the Royal Astronomical Society  McEwen, J. D. ; Wiaux, Y. </a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://iopscience.iop.org/article/10.1086/657252/pdf">SparseRI: A Compressed Sensing Framework for Aperture Synthesis Imaging in Radio Astronomy - 2010 Publications of the Astronomical Society of the Pacific Wenger, S</a></h2>
+  <h2><a href="https://arxiv.org/pdf/1309.1469.pdf">Probabilistic image reconstruction for radio interferometers  - 2014 Monthly Notices of the Royal Astronomical Society Sutter, P. M. </a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
