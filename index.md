@@ -31,25 +31,29 @@
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1984A%26A...137..159S">Enhancements to the deconvolution algorithm 'CLEAN' - 1984 
     Astronomy and Astrophysics  Steer, D. G. ; Dewdney, P. E. ; Ito, M. R. </a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1986MNRAS.220..971T">An analysis of the properties of CLEAN and smoothness stabilized CLEAN-some warnings - 1986 Monthly Notices of the Royal Astronomical Society  Tan, S. M. </a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="http://articles.adsabs.harvard.edu/pdf/1980A%26A....89..377C">An efficient implementation of the algorithm 'CLEAN' - 1980 A&A Clark, B. G.</a></h2>
+  <h2><a href="https://www.aanda.org/articles/aa/pdf/2021/02/aa39275-20.pdf">Parameterized reconstruction with random scales for radio synthesis imaging - 2021 A&A Zhang, L</a></h2>
+  <h2><a href="https://iopscience.iop.org/article/10.1088/1674-4527/21/3/63/pdf">Adaptive scale model reconstruction for radio synthesis imaging - 2021 Research in Astronomy and Astrophysics Zhang, Li</a></h2>
+  <h2><a href="https://iopscience.iop.org/article/10.1088/1674-4527/21/4/101/pdf">Deconvolution with hybrid parameterizations for radio emission reconstruction - 2021 Research in Astronomy and Astrophysics Zhang, Li</a></h2>
+  <h2><a href="https://www.aanda.org/articles/aa/pdf/2018/10/aa33090-18.pdf">Fused CLEAN deconvolution for compact and diffuse - 2018 A&A Zhang, Li</a></h2>
+  <h2><a href="https://iopscience.iop.org/article/10.1088/1674-4527/19/6/79/pdf">An adaptive loop gain selection for CLEAN deconvolution algorithm  - 2019 
+    Research in Astronomy and Astrophysics Zhang, Li</a></h2>
+  <h2><a href="https://naukaru.ru/en/nauka/article/29506/view">Scale sequentially CLEAN for Mingantu Spectral Radioheliograph - 2019 
+    Solar-Terrestrial Physics Cheng, Jun</a></h2>
+  <h2><a href="https://arxiv.org/pdf/1610.02400.pdf">
+Robust sparse image reconstruction of radio interferometric observations with PURIFY - 2018 
+    Monthly Notices of the Royal Astronomical Society Pratley, Luke</a></h2>
+  <h2><a href="https://www.aanda.org/articles/aa/pdf/2016/08/aa28596-16.pdf">Efficient implementation of the adaptive scale pixel decomposition algorithm  - 2016 A&A Zhang, L</a></h2>
+  <h2><a href="https://arxiv.org/pdf/1605.04317.pdf">fastRESOLVE: fast Bayesian imaging for aperture synthesis in radio astronomy - 2016 eprint arXiv Greiner, Maksim</a></h2>
+  <h2><a href="https://arxiv.org/pdf/1604.01563.pdf">The adaptive-loop-gain adaptive-scale CLEAN deconvolution of radio interferometric images 2016 - Astrophysics and Space Science Zhang, L.</a></h2>
+  <h2><a href="https://arxiv.org/pdf/1311.5282.pdf">RESOLVE: A new algorithm for aperture synthesis imaging of extended emission in radio astronomy - 2016 A&A Junklewitz, H.</a></h2>
+  <h2><a href="https://www.aanda.org/articles/aa/pdf/2015/03/aa24504-14.pdf">LOFAR sparse image reconstruction - 2015 A&A Garsden, H.</a></h2>
+  <h2><a href="https://arxiv.org/pdf/1307.4370.pdf">PURIFY: a new algorithmic framework for next-generation radio-interferometric imaging - 2014 Monthly Notices of the Royal Astronomical Society Carrillo</a></h2>
+  <h2><a href="https://ieeexplore.ieee.org/document/6491450">Direction Finding With MUSIC and CLEAN - 2013 IEEE Hislop</a></h2>
+  <h2><a href="https://arxiv.org/pdf/1106.2745.pdf">A multi-scale multi-frequency deconvolution algorithm for synthesis imaging in radio interferometry - 2011 A&A  Rau, U. ; Cornwell, T. J.</a></h2>
+  <h2><a href="https://arxiv.org/pdf/0810.2825.pdf">Multi-Scale CLEAN: A Comparison of its Performance Against Classical CLEAN on Galaxies Using THINGS 2008 The Astronomical Journal Rich, J. W</a></h2>
+  <h2><a href="https://ieeexplore.ieee.org/document/4703304">Multiscale CLEAN Deconvolution of Radio Synthesis Images - 2008 IEEE Cornwell, T. J. </a></h2>
+  <h2><a href="https://www.annualreviews.org/doi/pdf/10.1146/annurev.astro.43.112904.104850">Digital Image Reconstruction: Deblurring and Denoising - 2005 Annual Review of Astronomy & Astrophysics Puetter, R. C.</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
