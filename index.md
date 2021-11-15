@@ -37,6 +37,7 @@
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1999ASPC..180..151C">Deconvolution - 1999 Astronomical Society of the Pacific Cornwell, Tim ; Braun, Robert ; Briggs, Daniel S.</a></h2>
   <h2><a href="https://digital-library.theiet.org/content/journals/10.1049/el_20010259"> One-dimensional evolutionary programming-based CLEAN - 2001 Electronics Letters Choi</a></h2>
   <h2><a href="https://link.springer.com/article/10.1023%2FA%3A1013388300285">Applications of the DFT/CLEAN Technique to Solar Time Series - 2001 Solar Physics Crane, Patrick C. </a></h2>
+  <h2><a href="https://ieeexplore.ieee.org/document/993231">Sequence CLEAN: a modified deconvolution technique for microwave images of contiguous targets - 2002 IEEE R. Bose</a></h2>
   <h2><a href="https://ieeexplore.ieee.org/document/1188920">Two-dimensional evolutionary programming-based CLEAN - 2003 IEEE Choi</a></h2>
   <h2><a href="https://ieeexplore.ieee.org/document/1188919">Sequence CLEAN technique using BGA for contiguous radar target images with high sidelobes - 2003 IEEE Bose, R. </a></h2>
   <h2><a href="https://asa.scitation.org/doi/10.1121/1.1531510"> Improvement in matched field processing using the CLEAN algorithm - 2003 Acoustical Society of America Journal Song, H. C</a></h2>
