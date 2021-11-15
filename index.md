@@ -13,12 +13,12 @@
 
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1974A%26AS...15..417H">Aperture Synthesis with a Non-Regular Distribution of Interferometer Baselines - 1974A&A Hogbom</a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1978A%26A....70..335S">A `CLEAN'-type Deconvolution Algorithm - 1978A&A Segalovitz </a></h2>
-  <h2><a href="http://adsabs.harvard.edu/full/1983A%26A...121..281C">A method of stabilizing the clean algorithm -  1983 A&A Cornwell, T. J.</a></h2>
-  <h2><a href="http://adsabs.harvard.edu/full/1985A%26A...143...77C">A simple maximum entropy deconvolution algorithm - 1985 A&A Cornwell, T. J.</a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1978A%26A....65..345S">Mathematical-statistical Description of the Iterative Beam Removing Technique (Method CLEAN) - 1978 A&A Schwarz, U. J. </a></h2>
   <h2><a href="https://link.springer.com/chapter/10.1007%2F978-94-009-9449-2_30"> The Method Clean - Use, Misuse and Variations (invited Paper) - 1979 Image Formation from Coherence Functions in Astronomy Schwarz, U. J. </a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1980A%26A....89..377C">An efficient implementation of the algorithm 'CLEAN' - 1980 A&A Clark, B. G.</a></h2>
+  <h2><a href="http://adsabs.harvard.edu/full/1983A%26A...121..281C">A method of stabilizing the clean algorithm -  1983 A&A Cornwell, T. J.</a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1984A%26A...137..159S">Enhancements to the deconvolution algorithm 'CLEAN' - 1984 Astronomy and Astrophysics  Steer, D. G. ; Dewdney, P. E. ; Ito, M. R. </a></h2>
+  <h2><a href="http://adsabs.harvard.edu/full/1985A%26A...143...77C">A simple maximum entropy deconvolution algorithm - 1985 A&A Cornwell, T. J.</a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1986MNRAS.220..971T">An analysis of the properties of CLEAN and smoothness stabilized CLEAN-some warnings - 1986 Monthly Notices of the Royal Astronomical Society  Tan, S. M. </a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1986ARA%26A..24..127N">Maximum entropy image restoration in astronomy - 1986 Annual Review of Astronomy and Astrophysics  Narayan, Ramesh; Nityananda, Rajaram </a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1987A%26A...182..174M">The objective function implicit in the CLEAN algorithm - 1987 A&A Marsh, K. A. ; Richardson, J. M</a></h2>
