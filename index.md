@@ -123,13 +123,13 @@ deconvolution">A BOUND OPTIMIZATION APPROACH TOWAVELET-BASED IMAGE DECONVOLUTION
   <h2><a href="https://www.proquest.com/docview/2150536201?pq-origsite=gscholar&fromopenview=true">Evaluation of Reconstructed Radio Images Techniques of CLEAN De-convolution Methods - 2018 International Journal of Image, Graphics and Signal Processing Mohamed, M A</a></h2>
   <h2><a href="https://arxiv.org/abs/1905.08468">A parallel & automatically tuned algorithm for multispectral image
 deconvolution - 2019 Monthly Notices of the Royal Astronomical Society Rita Ammanouil</a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://www.researchgate.net/publication/335591092_Blind_IR_spectral_deconvolution_for_image_feature_extraction_via_sparse_representation_regularization">Blind IR spectral deconvolution for image feature extraction via sparse representation regularization - 2019 Infrared Physics & Technology Haixia Xiao</a></h2>
+  <h2><a href="https://arxiv.org/abs/1909.03956">Cleaning radio interferometric images using a spherical wavelet decomposition - 2019 Astronomy and Computing Chris J. Skipper</a></h2>
+  <h2><a href="https://ieeexplore.ieee.org/document/9250553">Blind Image Deconvolution Using Deep Generative Priors - 2020 IEEE Muhammad Asim</a></h2>
+  <h2><a href="https://arxiv.org/abs/2012.12740"> Joint deconvolution and unsupervised source separation for data on the sphere - 2020 Digital Signal Processing Rémi Carloni</a></h2>
+  <h2><a href="https://arxiv.org/abs/1911.07167">LIDIA: Lightweight Learned Image Denoising with Instance Adaptation 2019 Gregory Vaksman</a></h2>
+  <h2><a href="https://arxiv.org/pdf/2002.07921.pdf">MEM_GE: A New Maximum Entropy Method for Image Reconstruction from Solar X-Ray Visibilities - 2020 The Astrophysical Journal Massa, Paolo</a></h2>
+  <h2><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Neural_Blind_Deconvolution_Using_Deep_Priors_CVPR_2020_paper.pdf">Neural Blind Deconvolution Using Deep Priors - 2020 CVPR Dongwei Ren</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
