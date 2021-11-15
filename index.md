@@ -131,8 +131,8 @@ deconvolution - 2019 Monthly Notices of the Royal Astronomical Society Rita Amma
   <h2><a href="https://arxiv.org/pdf/2002.07921.pdf">MEM_GE: A New Maximum Entropy Method for Image Reconstruction from Solar X-Ray Visibilities - 2020 The Astrophysical Journal Massa, Paolo</a></h2>
   <h2><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Neural_Blind_Deconvolution_Using_Deep_Priors_CVPR_2020_paper.pdf">Neural Blind Deconvolution Using Deep Priors - 2020 CVPR Dongwei Ren</a></h2>
   <h2><a href="https://iopscience.iop.org/article/10.1088/1538-3873/ab7345/meta">Parameterized CLEAN Deconvolution in Radio Synthesis Imaging - 2020 The Astronomical Society of the Pacific L. Zhang</a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://ieeexplore.ieee.org/document/9006841">An FFT-Based CLEAN Deconvolution Method for Interferometric Microwave Radiometers With Spatially Variable Beam Pattern - 2021 IEEE Ahmed Kiyoshi Sugihara El Maghraby</a></h2>
+  <h2><a href="https://www.sciencedirect.com/science/article/pii/S016516842100373X">Blind image deconvolution via salient edge selection and mean curvature regularization - 2021 Signal Processing XianyuGe</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
