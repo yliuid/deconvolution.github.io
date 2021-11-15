@@ -19,7 +19,6 @@
   <h2><a href="https://link.springer.com/chapter/10.1007%2F978-94-009-9449-2_30"> The Method Clean - Use, Misuse and Variations (invited Paper) - 1979 Image Formation from Coherence Functions in Astronomy Schwarz, U. J. </a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1980A%26A....89..377C">An efficient implementation of the algorithm 'CLEAN' - 1980 A&A Clark, B. G.</a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1984A%26A...137..159S">Enhancements to the deconvolution algorithm 'CLEAN' - 1984 Astronomy and Astrophysics  Steer, D. G. ; Dewdney, P. E. ; Ito, M. R. </a></h2>
-  <h2><a href="http://articles.adsabs.harvard.edu/pdf/1984A%26A...137..159S">Enhancements to the deconvolution algorithm 'CLEAN' - 1984 A&A Steer;Dewdney</a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1986MNRAS.220..971T">An analysis of the properties of CLEAN and smoothness stabilized CLEAN-some warnings - 1986 Monthly Notices of the Royal Astronomical Society  Tan, S. M. </a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1986ARA%26A..24..127N">Maximum entropy image restoration in astronomy - 1986 Annual Review of Astronomy and Astrophysics  Narayan, Ramesh; Nityananda, Rajaram </a></h2>
   <h2><a href="http://articles.adsabs.harvard.edu/pdf/1987A%26A...182..174M">The objective function implicit in the CLEAN algorithm - 1987 A&A Marsh, K. A. ; Richardson, J. M</a></h2>
