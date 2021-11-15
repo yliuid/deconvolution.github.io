@@ -48,7 +48,7 @@ Robust sparse image reconstruction of radio interferometric observations with PU
   <h2><a href="https://arxiv.org/pdf/1604.01563.pdf">The adaptive-loop-gain adaptive-scale CLEAN deconvolution of radio interferometric images 2016 - Astrophysics and Space Science Zhang, L.</a></h2>
   <h2><a href="https://arxiv.org/pdf/1311.5282.pdf">RESOLVE: A new algorithm for aperture synthesis imaging of extended emission in radio astronomy - 2016 A&A Junklewitz, H.</a></h2>
   <h2><a href="https://www.aanda.org/articles/aa/pdf/2015/03/aa24504-14.pdf">LOFAR sparse image reconstruction - 2015 A&A Garsden, H.</a></h2>
-  <h2><a href="https://arxiv.org/pdf/1307.4370.pdf">PURIFY: a new algorithmic framework for next-generation radio-interferometric imaging - 2014 Monthly Notices of the Royal Astronomical Society Carrillo</a></h2>
+  <h2><a href="https://arxiv.org/pdf/1307.4370.pdf">PURIFY: a new approach to radio-interferometric imaging - 2014 Monthly Notices of the Royal Astronomical Society Carrillo</a></h2>
   <h2><a href="https://ieeexplore.ieee.org/document/6491450">Direction Finding With MUSIC and CLEAN - 2013 IEEE Hislop</a></h2>
   <h2><a href="https://arxiv.org/pdf/1106.2745.pdf">A multi-scale multi-frequency deconvolution algorithm for synthesis imaging in radio interferometry - 2011 A&A  Rau, U. ; Cornwell, T. J.</a></h2>
   <h2><a href="https://arxiv.org/pdf/0810.2825.pdf">Multi-Scale CLEAN: A Comparison of its Performance Against Classical CLEAN on Galaxies Using THINGS 2008 The Astronomical Journal Rich, J. W</a></h2>
@@ -61,12 +61,12 @@ Robust sparse image reconstruction of radio interferometric observations with PU
   <h2><a href="https://link.springer.com/chapter/10.1007%2F978-3-319-39739-9_5">Image Reconstruction in Optical Interferometry: An Up-to-Date Overview - 2016 Astronomy at High Angular Resolution Baron, Fabien </a></h2>
   <h2><a href="https://arxiv.org/pdf/1401.4711.pdf">A new approach to multifrequency synthesis in radio interferometry - 2015 A&A Junklewitz, H</a></h2>
   <h2><a href="https://arxiv.org/pdf/1412.5387.pdf">MORESANE: MOdel REconstruction by Synthesis-ANalysis Estimators. A sparse deconvolution algorithm for radio interferometric imaging - 2015 A&A  Dabbech, A. ; Ferrari, C</a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://arxiv.org/pdf/1310.2078.pdf">Direct deconvolution of radio synthesis images using L1 minimisation  - 2013 A&A Hardy, Stephen J. </a></h2>
+  <h2><a href="https://arxiv.org/pdf/1107.4282.pdf">A multiple-beam CLEAN for imaging intra-day variable radio sources - 2011 A&A Stewart, I. M.</a></h2>
+  <h2><a href="https://arxiv.org/pdf/1106.1711.pdf">The application of compressive sampling to radio astronomy. I. Deconvolution - 2011 A&A Cornwell, T. J. ; de Hoog, F. </a></h2>
+  <h2><a href="https://arxiv.org/pdf/1008.5066.pdf"> Adaptive selective sidelobe canceller beamformer with applications in radio astronomy - 2010 IEEE Levanda, Ronny</a></h2>
+  <h2><a href="https://www.aanda.org/articles/aa/pdf/2021/02/aa39258-20.pdf">Comparison of classical and Bayesian imaging in radio interferometry. Cygnus A with CLEAN and resolve - 2021 A&A Arras, Philipp</a></h2>
+  <h2><a href="https://arxiv.org/pdf/2001.03850.pdf"> Solar image deconvolution by generative adversarial network - 2020 Research in Astronomy and Astrophysics Xu, Long </a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
