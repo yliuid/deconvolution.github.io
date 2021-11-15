@@ -80,7 +80,7 @@ Robust sparse image reconstruction of radio interferometric observations with PU
   <h2><a href="https://arxiv.org/pdf/0807.4852.pdf">Parametric High Resolution Techniques for Radio Astronomical Imaging - 2008 IEEE Ben-David, Chen</a></h2>
   <h2><a href="https://ieeexplore.ieee.org/document/1188919">Sequence CLEAN technique using BGA for contiguous radar target images with high sidelobes - 2003 IEEE Bose, R. </a></h2>
   <h2><a href="https://link.springer.com/article/10.1023%2FA%3A1013388300285">Applications of the DFT/CLEAN Technique to Solar Time Series - 2001 Solar Physics Crane, Patrick C. </a></h2>
-  <h2><a href=""></a></h2>
+  <h2><a href="https://ieeexplore.ieee.org/document/1144">Reduction of sidelobe and speckle artifacts in microwave imaging: The CLEAN technique - 1988 IEEE Tsao, Jenho</a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
   <h2><a href=""></a></h2>
