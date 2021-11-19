@@ -79,7 +79,6 @@
   <h2><a href="https://www.aanda.org/articles/aa/abs/2013/03/aa20771-12/aa20771-12.html">66.Improved CLEAN reconstructions for rotation measure synthesis with maximum likelihood estimation - 2013 A&A M. R. Bell</a></h2>
   <h2><a href="https://arxiv.org/pdf/1310.2078.pdf">67.Direct deconvolution of radio synthesis images using L1 minimisation  - 2013 A&A Hardy, Stephen J. </a></h2>
   <h2><a href="https://ieeexplore.ieee.org/document/6491450">68.Direction Finding With MUSIC and CLEAN - 2013 IEEE Hislop</a></h2>
-  <h2><a href="https://ieeexplore.ieee.org/document/6491450">69.Direction Finding With MUSIC and CLEAN - 2013 IEEE Hislop, Greg</a></h2>
   <h2><a href="https://www.sciencedirect.com/science/article/pii/S0888327014000995?via%3Dihub">70.Comparison of deconvolution methods for the visualization of acoustic sources based on cross-spectral imaging function beamforming - 2014 Mechanical Systems and Signal Processing Chu, Zhigang</a></h2>
   <h2><a href="https://dl.acm.org/doi/10.5555/2968826.2969026">71.Deep convolutional neural network for image deconvolution - 2014 NIPS Li Xu</a></h2>
   <h2><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9252/1/Faster-with-CLEAN--an-exploration-of-the-effects-of/10.1117/12.2067573.short?SSO=1">72.Faster with CLEAN: an exploration of the effects of applying a nonlinear deconvolution method to a novel radiation mapper - 2014 Society of Photo-Optical Instrumentation Engineers Matthew J. Southgate</a></h2>
