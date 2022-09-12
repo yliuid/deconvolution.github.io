@@ -7,7 +7,7 @@
 
 <body>
   <h1>
-  Papers
+  Classical Deconvolution Papers
   </h1>
 
 
@@ -124,6 +124,7 @@
   <h2><a href="https://iopscience.iop.org/article/10.1088/1674-4527/21/4/101/pdf">113.Deconvolution with hybrid parameterizations for radio emission reconstruction - 2021 Research in Astronomy and Astrophysics Zhang, Li</a></h2>
   <h2><a href="https://www.aanda.org/articles/aa/pdf/2021/02/aa39258-20.pdf">114.Comparison of classical and Bayesian imaging in radio interferometry. Cygnus A with CLEAN and resolve - 2021 A&A Arras, Philipp</a></h2>
   
+
 </body>
 </html>
 
