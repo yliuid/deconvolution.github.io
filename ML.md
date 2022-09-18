@@ -26,6 +26,8 @@
    <h2><a href="https://arxiv.org/abs/2207.11336">13.First AI for deep super-resolution wide-field imaging in radio astronomy: unveiling structure in ESO 137-006 - 2022 arxiv, Arwa Dabbech, Matthieu Terris, Adrian Jackson, Mpati Ramatsoku, Oleg M. Smirnov, Yves Wiaux</a></h2>  
    <h2><a href="https://ieeexplore.ieee.org/document/8448615">14.Dimension-Reduced Radio Astronomical Imaging Based on Sparse Reconstruction - 2018 Sensor Array and Multichannel Signal Processing Workshop (SAM), Shuimei Zhang; Yujie Gu; Chang-Hee Won; Yimin D. Zhang</a></h2>   
    <h2><a href="https://doi.org/10.1038/s41598-017-04605-9">15.Automatic Detection and Classification of Radio Galaxy Images by Deep Learning - 2017 Scientific Reports, Mohamed Abd El Aziz, I. M. Selim & Shengwu Xiong </a></h2>  
+   <h2><a href="https://doi.org/10.1038/s41598-017-04605-9">16.Galaxy detection and identification using deep learning and data augmentation - 2018 Astronomy and Computing, R.E. González, R.P. Muñoz, C.A. Hernández </a></h2>  
+   <h2><a href="https://arxiv.org/abs/1506.02640">17.You Only Look Once: Unified, Real-Time Object Detection - 2016 Conference on Computer Vision and Pattern Recognition (CVPR), J. Redmon, S. Divvala, R. Girshick and A. Farhadi</a></h2>  
 </body>
 </html>
 
