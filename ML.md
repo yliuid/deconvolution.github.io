@@ -30,6 +30,7 @@
    <h2><a href="https://arxiv.org/abs/1506.02640">17.You Only Look Once: Unified, Real-Time Object Detection - 2016 Conference on Computer Vision and Pattern Recognition (CVPR), J. Redmon, S. Divvala, R. Girshick and A. Farhadi</a></h2> 
    <h2><a href="https://arxiv.org/abs/2203.16607">18.A Self-Learning Neural Network Approach for RFI Detection and Removal in Radio Astronomy - 2022 Publications of the Astronomical Society of the Pacific, Benjamin R. B. Saliwanchik, Anže Slosar</a></h2> 
   <h2><a href="https://www.proquest.com/docview/2554685133">19.Research on Morphological Detection of FR I and FR II Radio Galaxies Based on Improved YOLOv5 - 2021 MDPI, Wang, Xingzhu; Wei, Jiyu; Liu, Yang; Li, Jinhao; Zhang, Zhen; Chen, Jianyu</a></h2> 
+  <h2><a href="https://iopscience.iop.org/article/10.3847/1538-4365/aa7333/pdf">20.Classifying Radio Galaxies with the Convolutional Neural Network - 2017 The Astrophysical Journal Supplement Series, A. K. Aniyan and K. Thorat</a></h2> 
 </body>
 </html>
 
