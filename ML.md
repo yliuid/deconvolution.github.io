@@ -32,6 +32,9 @@
   <h2><a href="https://www.proquest.com/docview/2554685133">19.Research on Morphological Detection of FR I and FR II Radio Galaxies Based on Improved YOLOv5 - 2021 MDPI, Wang, Xingzhu; Wei, Jiyu; Liu, Yang; Li, Jinhao; Zhang, Zhen; Chen, Jianyu</a></h2> 
   <h2><a href="https://iopscience.iop.org/article/10.3847/1538-4365/aa7333/pdf">20.Classifying Radio Galaxies with the Convolutional Neural Network - 2017 The Astrophysical Journal Supplement Series, A. K. Aniyan and K. Thorat</a></h2> 
   <h2><a href="https://academic.oup.com/mnras/article/480/2/2085/5060783">21.The FIRST Classifier: compact and extended radio galaxy classification using deep Convolutional Neural Networks - 2018 Monthly Notices of the Royal Astronomical Society, Wathela Alhassan, A R Taylor, Mattia Vaccari</a></h2> 
+  <h2><a href="https://academic.oup.com/mnras/article/476/1/246/4826039">22.Radio Galaxy Zoo: compact and extended radio source classification
+with deep learning - 2018 Monthly Notices of the Royal Astronomical Society, V. Lukic, M. Bruggen, J. K. Banfield, O. I. Wong, L. Rudnick,
+R. P. Norris and B. Simmons</a></h2> 
 </body>
 </html>
 
