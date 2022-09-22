@@ -33,9 +33,8 @@
   <h2><a href="https://iopscience.iop.org/article/10.3847/1538-4365/aa7333/pdf">20.Classifying Radio Galaxies with the Convolutional Neural Network - 2017 The Astrophysical Journal Supplement Series, A. K. Aniyan and K. Thorat</a></h2> 
   <h2><a href="https://academic.oup.com/mnras/article/480/2/2085/5060783">21.The FIRST Classifier: compact and extended radio galaxy classification using deep Convolutional Neural Networks - 2018 Monthly Notices of the Royal Astronomical Society, Wathela Alhassan, A R Taylor, Mattia Vaccari</a></h2> 
   <h2><a href="https://academic.oup.com/mnras/article/476/1/246/4826039">22.Radio Galaxy Zoo: compact and extended radio source classification
-with deep learning - 2018 Monthly Notices of the Royal Astronomical Society, V. Lukic, M. Bruggen, J. K. Banfield, O. I. Wong, L. Rudnick,
-R. P. Norris and B. Simmons</a></h2> 
-  
+with deep learning - 2018 Monthly Notices of the Royal Astronomical Society, V. Lukic, M. Bruggen, J. K. Banfield, O. I. Wong, L. Rudnick, R. P. Norris and B. Simmons</a></h2> 
+  <h2><a href="https://arxiv.org/pdf/2209.07071.pdf">23.Noise2Astro: Astronomical Image Denoising With Self-Supervised Neural Networks - 2022 , Yunchong Zhang, Brian Nord, Amanda Pagul, Michael Lepori </a></h2> 
   
   <h1>
   A brief read
@@ -51,7 +50,8 @@ R. P. Norris and B. Simmons</a></h2>
   </h1>
   
   <h2><a href="https://arxiv.org/pdf/1906.02864.pdf">Radio Galaxy Zoo: Unsupervised Clustering of Convolutionally Auto-encoded Radio-astronomical Images - 2019 Astronomical Society of the Pacific, Nicholas O. Ralph etc.</a></h2> 
-  <h2><a href="https://arxiv.org/pdf/1903.11921.pdf">Transfer learning for radio galaxy classification - 2018 Monthly Notices of the Royal Astronomical Societ, H. Tang, A. M. M. Scaife, J. P. Leahy, D. D. Proctor</a></h2> 
+  <h2><a href="https://arxiv.org/pdf/1903.11921.pdf">Transfer learning for radio galaxy classification - 2018 Monthly Notices of the Royal Astronomical Society, H. Tang, A. M. M. Scaife, J. P. Leahy, D. D. Proctor</a></h2> 
+  <h2><a href="https://arxiv.org/pdf/1803.04189.pdf">Noise2Noise: Learning Image Restoration without Clean Data - 2018 Proceedings of the 35th International Conference on Machine Learning, PMLR, Jaakko Lehtinen, Jacob Munkberg, Jon Hasselgren, Samuli Laine, Tero Karras, Miika Aittala, Timo Aila</a></h2> 
   
   
 </body>
