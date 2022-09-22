@@ -35,6 +35,25 @@
   <h2><a href="https://academic.oup.com/mnras/article/476/1/246/4826039">22.Radio Galaxy Zoo: compact and extended radio source classification
 with deep learning - 2018 Monthly Notices of the Royal Astronomical Society, V. Lukic, M. Bruggen, J. K. Banfield, O. I. Wong, L. Rudnick,
 R. P. Norris and B. Simmons</a></h2> 
+  
+  
+  <h1>
+  A brief read
+  </h1>
+    <h2><a href="https://www.aanda.org/articles/aa/pdf/2018/01/aa31333-17.pdf">FR0CAT: a FIRST catalog of FR 0 radio galaxies - 2018 A&A, R. D. Baldi, A. Capetti, and F. Massaro, R. P. Norris and B. Simmons</a></h2> 
+    <h2><a href="https://arxiv.org/pdf/1610.09376.pdf">FRICAT: A FIRST catalog of FR I radio galaxies - 2016 A&A, A. Capetti, F. Massaro, R.D. Baldi</a></h2> 
+    <h2><a href="https://www.aanda.org/articles/aa/pdf/2017/05/aa30247-16.pdf">FRIICAT: A FIRST catalog of FR II radio galaxies - 2017 A&A, A. Capetti, F. Massaro, R.D. Baldi</a></h2> 
+    <h2><a href="https://arxiv.org/pdf/0808.0165.pdf">The Combined NVSS-FIRST Galaxies (CoNFIG) Sample - I. Sample Definition, Classification and Evolution - 2008 Monthly Notices of the Royal Astronomical Society, M. A. Gendre, J. V. Wall</a></h2> 
+    <h2><a href="https://iopscience.iop.org/article/10.1088/0067-0049/194/2/31/pdf">MORPHOLOGICAL ANNOTATIONS FOR GROUPS IN THE FIRST DATABASE - 2011 The Astrophysical Journal Supplement Series, D. D. Proctor</a></h2> 
+  
+  <h1>
+  To Read
+  </h1>
+  
+  <h2><a href="https://arxiv.org/pdf/1906.02864.pdf">Radio Galaxy Zoo: Unsupervised Clustering of Convolutionally Auto-encoded Radio-astronomical Images - 2019 Astronomical Society of the Pacific, Nicholas O. Ralph etc.</a></h2> 
+  <h2><a href="https://arxiv.org/pdf/1903.11921.pdf">Transfer learning for radio galaxy classification - 2018 Monthly Notices of the Royal Astronomical Societ, H. Tang, A. M. M. Scaife, J. P. Leahy, D. D. Proctor</a></h2> 
+  
+  
 </body>
 </html>
 
