@@ -39,6 +39,7 @@ with deep learning - 2018 Monthly Notices of the Royal Astronomical Society, V. 
   <h2><a href="https://academic.oup.com/mnras/article/482/1/1211/5142869">25.Radio Galaxy Zoo: CLARAN – a deep learning classifier for radio morphologies - 2018 Monthly Notices of the Royal Astronomical Society, Chen Wu, Oiwei Ivy Wong, Lawrence Rudnick, Stanislav S Shabala,</a></h2>   
   <h2><a href="https://academic.oup.com/mnras/article/478/4/5547/4999919">26.Radio Galaxy Zoo: machine learning for radio source host galaxy cross-identification - 2018 Monthly Notices of the Royal Astronomical Society, M J Alger, J K Banfield, C S Ong, L Rudnick, O I Wong, C Wolf, H Andernach, R P Norris, S S Shabala</a></h2>  
   <h2><a href="https://academic.oup.com/mnras/article/441/2/1741/1071156">27.SKYNET: an efficient and robust neural network training tool for machine learning in astronomy - 2014 Monthly Notices of the Royal Astronomical Society, Philip Graff, Farhan Feroz, Michael P. Hobson, Anthony Lasenby</a></h2>   
+  <h2><a href="https://arxiv.org/abs/2006.06156">28.Image Deconvolution via Noise-Tolerant Self-Supervised Inversion - 2020 Computer Vision and Pattern Recognition, Hirofumi Kobayashi, Ahmet Can Solak, Joshua Batson, Loic A. Royer</a></h2>   
   
   <h1>
   A brief read
@@ -70,6 +71,7 @@ with deep learning - 2018 Monthly Notices of the Royal Astronomical Society, V. 
 
   <h2><a href="https://github.com/wathela/FIRST-CLASSIFIER">FRST-CLASSIFIER</a></h2> 
   <h2><a href="https://www.astron.nl/citt/pybdsf/">PyBDSF</a></h2> 
+  <h2><a href="https://github.com/royerlab/ssi-code">Noise-Tolerant Self-Supervised Inversion</a></h2> 
   
   
 </body>
