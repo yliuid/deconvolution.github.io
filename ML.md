@@ -62,6 +62,7 @@ with deep learning - 2018 Monthly Notices of the Royal Astronomical Society, V. 
   </h1>
 
   <h2><a href="https://data.galaxyzoo.org/">Galaxy Zoo</a></h2> 
+  <h2><a href="https://www.sdss.org/">SDSS</a></h2> 
 
   <h1>
   Open Code Source
